@@ -29,6 +29,7 @@ int main () {
 
     }
     total.push_back(d);
+     d=0;
     }
     for (i=0;i<a;i++){
          cout << total[i]<<endl;}
